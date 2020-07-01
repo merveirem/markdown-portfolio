@@ -1,4 +1,3 @@
-Replace this with your name, and include a header.
 # This is an <merve1> header, which is the largest
 ## This is an <merve2> header
 ### This is an <merve3> header
